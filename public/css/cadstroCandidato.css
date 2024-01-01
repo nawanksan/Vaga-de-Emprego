@@ -1,0 +1,31 @@
+/* Adicione esta parte ao seu arquivo CSS */
+.register-container {
+    display: none;
+}
+
+.background-image.register {
+    background: url('/img/kawan.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-form.register {
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.back-to-login {
+    margin-top: 15px;
+}
+
+.back-to-login a {
+    display: block;
+    color: #333;
+    text-decoration: none;
+}
+
+.back-to-login a:hover {
+    color: #2980b9;
+}
