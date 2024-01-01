@@ -15,7 +15,7 @@
 - php
 - visual studio code
 
-### Instalção
+#Instalação
 
 ### Clone o repositório
 
