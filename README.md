@@ -47,3 +47,7 @@
 
 ### Diagrama DER do sistema:
 ![Sistema Vagas DER Oficial](https://github.com/nawanksan/Vaga-de-Emprego/assets/121257501/10f49dc0-046c-4be5-aa8e-f07e7c94d05c)
+
+## ## 📄 Licença
+Este projeto foi criado para estudos e uso pessoal.
+Contribuições são bem-vindas! 🎯
